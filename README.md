@@ -6,6 +6,8 @@ During this module you will learn the core concepts of relational databases base
 A relational database is a type of database that stores and provides access to data sets that are related to one another. 
 Relational databases are based on the relational model, an intuitive, straightforward way of representing data in tables.
 
+
+
 Some of the topics that are going to be explained during this module are:
 - Database modeling: how to best structure and store your information into a database
 - Basic queries: how to retrieve the information that you want from the database
