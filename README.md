@@ -4,8 +4,7 @@ Welcome to the **Databases - SQL** module!
 
 During this module you will learn the core concepts of relational databases based on the example of MySQL. <br>
 A relational database is a type of database that stores and provides access to data sets that are related to one another. 
-Relational databases are based on the relational model, an intuitive, straightforward way of representing data in tables.
-
+Relational databases are based on the relational model, an intuitive, straightforward way of representing data in tables. <br><br>
 
 
 Some of the topics that are going to be explained during this module are:
