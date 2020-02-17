@@ -13,7 +13,7 @@ Some of the topics that are going to be explained during this module are:
 - Data manipulation language: how to insert, update or remove information from the database
 
 ## Presentation
-Presentation is available under [this link](https://gitlab.com/sda-international/program/common/databases/-/wikis/uploads/95e724e73f795576501934659b57e3ac/Databases_-_SQL.pdf).
+Presentation is available under [this link](https://gitlab.com/sda-international/program/common/databases/-/wikis/uploads/8cbb975b6868d8b562626094f6dea7cb/Databases-SQL.pdf).
 
 ## Requirements
 
